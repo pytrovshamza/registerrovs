@@ -1,0 +1,29 @@
+  {
+    "OKUMADANGECME" : "Aşağıdaki tamamen boş bırakılan yerlere ID girin OKUDUKTAN SONRA burayı silebilirsiniz + Olarak emojileri ID olarak koymazsanız çalışmaz",
+    "OKUMADANGECME2" : "TOKEN .env kısmında TOKEN yazan yerin karşısına tokeninizi yapıstırınız.",
+    "OKUMADANGECME3" : "BOT BAZEN HATA ÇIKARDIĞI İÇİN HOŞ GELDİN EMOJİLERİ KALDIRILMIŞTIR.",
+    "token" : "" ,
+    "sahip" : "635182736402939914,853250200280760390",
+    "prefix" : ".",
+    "footer" : "Sena ❤️ Emirhan",
+
+    "tag" : "Rheia",
+    "sembol" : "|",
+  
+    "yetkiliRol" : ["889585736716787752"],
+    "vipRol" : "889585741674455050",
+    "boosterRol" : "852640919068868660",
+    "kayıtsızRol" : "889585769587560498",
+    "tagRol" : "914162060831633418",
+    "erkekRol1" : "889585743222161418",
+    "erkekRol2" : "914200517272551466",
+    "kadınRol1" : "889585742370701453",
+    "kadınRol2" : "914200245141921814",
+
+    "hosgeldinKanal" : "914166896423759882",
+    "sohbetKanal" : "889585797546770452", 
+    "botSesKanal" : "889585794069721098",
+  
+    "yes" : "914167585182990377",
+    "no" : "914167598319558736"
+}
